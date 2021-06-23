@@ -1,0 +1,46 @@
+#main {
+    text-align: center;
+    background-color: greenyellow;
+    margin-left: 250px;
+    margin-right: 250px;
+
+}
+#b1,#b2,#b3,#b4,#b5,#b6,#b7,#b8,#b9{
+    width: 80px;
+    height: 60px; 
+    border: 1px solid gray; 
+    border-radius: 6px;
+    margin: auto;
+    font-size: 30px;
+    text-align: center;
+    background-color: lightblue;
+
+}
+#reset{
+    width: 90px; 
+    height:50px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: rgb(35, 182, 231);
+    border: 1px solid gray;
+    font-size: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+    cursor: pointer;
+    color: white;
+
+}
+#h1{
+    color: rgb(245, 80, 14);
+    font-size: 45px;
+}
+.h2{
+    color: rgb(233, 124, 81);
+    font-size: 30px;
+}
+#print{
+    color: dodgerblue;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
